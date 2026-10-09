@@ -1,0 +1,23 @@
+# API keys and environment variables
+.env
+
+# Generated patient data
+patient_history.json
+custom_patients.json
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Jupyter generated files
+.ipynb_checkpoints/
+
+# Chainlit local configuration
+.chainlit/
+
+# Development backups
+chatbot_before_final.py
+chatbot_feedback_working.py
+chatbot_history_working.py
+chatbot_phase3_backup.py
+chatbot_using_gemini_original.py
